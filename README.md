@@ -1,4 +1,4 @@
-# finance-h5
+# vue-h5-template
 
 ## Project setup
 ```
